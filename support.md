@@ -10,10 +10,10 @@ hero:
   actions:
     - theme: alt
       text: Frequently Asked Questions
-      link: /faq
+      link: /indec
     - theme: alt
       text: Credits & Tiers
-      link: /credits-and-tiers
+      link: https://notreal003.github.io
     - theme: alt
       text: Refund Policy
       link: /refund-policy
